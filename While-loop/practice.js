@@ -47,12 +47,18 @@
 
 // Find the sum of all even numbers from 1 to 100.
 
-let i = 1;
-let total = 0;
-while(i<=100){
-    if(i%2==0){
-        total+=i
-    }
-    i++
+// let i = 1;
+// let total = 0;
+// while(i<=100){
+//     if(i%2==0){
+//         total+=i
+//     }
+//     i++
+// }
+// console.log(total)
+
+let star=""
+for(let i=1;i<=5;i++){
+    star=star+"*"
+    console.log(star)
 }
-console.log(total)
