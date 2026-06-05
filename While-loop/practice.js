@@ -29,10 +29,18 @@
 //     i++
 // }
 
-let i = 1
-let total = 0
-while(i<=5){
-    total=total+i
+// let i = 1
+// let total = 0
+// while(i<=5){
+//     total=total+i
+//     i++
+// }
+// console.log(total)
+
+let i= 1
+while(i<=100){
+    if(i%5==0){
+        console.log(i)
+    }
     i++
 }
-console.log(total)
