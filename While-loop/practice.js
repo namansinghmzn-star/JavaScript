@@ -22,9 +22,17 @@
 //     i+=2
 // }
 
-let n = 3
+// let n = 3
+// let i = 1
+// while(i<=10){
+//     console.log(n,"X",i,"=",n*i)
+//     i++
+// }
+
 let i = 1
-while(i<=10){
-    console.log(n,"X",i,"=",n*i)
+let total = 0
+while(i<=5){
+    total=total+i
     i++
 }
+console.log(total)
