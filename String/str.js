@@ -30,10 +30,10 @@
 
 // Extracting part of string
 
-let text = "SmartPhone"
-console.log(text.slice(0,5))
-let result = text.replace("Smart","Hand")
-console.log(result)
+// let text = "SmartPhone"
+// console.log(text.slice(0,5))
+// let result = text.replace("Smart","Hand")
+// console.log(result)
 
 // using trim
 
@@ -41,3 +41,8 @@ console.log(result)
 // console.log(name)
 // console.log(name.trim())
 
+// let language = "JavaScript";
+
+// console.log(language.length);
+// console.log(language.toUpperCase());
+// console.log(language.slice(0, 4));
