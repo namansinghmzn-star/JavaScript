@@ -17,3 +17,4 @@
 let name = "Naman Singh"
 console.log(name.indexOf("Singh"))
 console.log(name.toUpperCase())
+console.log(name.toLowerCase())
