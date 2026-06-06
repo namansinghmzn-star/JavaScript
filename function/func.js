@@ -1,6 +1,7 @@
 // Declaring a Function 
 
-function sayHello(){
-    console.log("Hello")
-}
-sayHello()
+// function sayHello(){
+//     console.log("Hello")
+// }
+// sayHello()
+
