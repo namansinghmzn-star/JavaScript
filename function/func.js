@@ -64,3 +64,39 @@
 // let b = Number(prompt("Enter the number: "))
 
 // add(a,b)
+
+// function showName(name){
+//     console.log("Your name is:",name)
+// }
+// let name = prompt("Enter you name: ")
+// showName(name)
+
+// function table(number){
+//     for(let i=1; i<=10;i++){
+//         console.log(number,"x",i,"=",number*i)
+//     }
+// }
+// table(12)
+
+// function square(num){
+//     console.log(num*num)
+// }
+// square(8)
+
+// function add(a,b){
+//     return a+b
+// }
+// let result = add(10,5)
+// console.log(result)
+
+// function getNumber(){
+//     return 100;
+// }
+// let number = getNumber()
+// console.log(number)
+
+// function square(a){
+//     return a*a;
+// }
+// console.log(square(5))
+
