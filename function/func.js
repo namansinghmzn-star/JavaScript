@@ -5,12 +5,19 @@
 // }
 // sayHello()
 
-function oddEven(){
-    let num = Number(prompt("Enter the Number: "))
-    if(num%2==0){
-        console.log("Even")
-    }else{
-        console.log("Odd")
+// function oddEven(){
+//     let num = Number(prompt("Enter the Number: "))
+//     if(num%2==0){
+//         console.log("Even")
+//     }else{
+//         console.log("Odd")
+//     }
+// }
+// oddEven()
+
+function number(){
+    for(let i=1; i<=10;i++) {
+        console.log(i)
     }
 }
-oddEven()
+number()
