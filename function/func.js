@@ -15,9 +15,17 @@
 // }
 // oddEven()
 
-function number(){
-    for(let i=1; i<=10;i++) {
-        console.log(i)
+// function number(){
+//     for(let i=1; i<=10;i++) {
+//         console.log(i)
+//     }
+// }
+// number()
+
+function tableof5(){
+    let num = 5
+    for(let i=1;i<=10;i++){
+        console.log("5 X",i,"=",num*i)
     }
 }
-number()
+tableof5()
