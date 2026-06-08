@@ -22,10 +22,20 @@
 // }
 // number()
 
-function tableof5(){
-    let num = 5
-    for(let i=1;i<=10;i++){
-        console.log("5 X",i,"=",num*i)
-    }
-}
-tableof5()
+// function tableof5(){
+//     let num = 5
+//     for(let i=1;i<=10;i++){
+//         console.log("5 X",i,"=",num*i)
+//     }
+// }
+// tableof5()
+
+// function greet(name){
+//     console.log("Hello "+ name)
+// }
+// greet("Naman")
+
+// function sayHey(country){
+//     console.log("Hey",country)
+// }
+// sayHey("India")
