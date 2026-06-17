@@ -16,7 +16,7 @@
 // console.log(arr[5])
 
 // Changing elements of array 
-// let arr = ["Naman","Rohan","Vivek","Divyansh"]
-// arr[3] = "Ayush"
-// console.log(arr)
-// console.log(arr.length)
+let arr = ["Naman","Rohan","Vivek","Divyansh"]
+arr[3] = "Ayush"
+console.log(arr)
+console.log(arr.length)
