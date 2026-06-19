@@ -60,9 +60,9 @@
 // console.log(nam)
 // console.log(nam.join())
 
-let nam = ["Naman","Veepanshu","Deepak","Sumit"]
-if (nam.includes("Naman")){
-    console.log("Name Found")
-}else{
-    console.log("Name Not Found")
-}
+// let nam = ["Naman","Veepanshu","Deepak","Sumit"]
+// if (nam.includes("Naman")){
+//     console.log("Name Found")
+// }else{
+//     console.log("Name Not Found")
+// }
