@@ -151,5 +151,5 @@ for (let i = 0; i < student.length; i++) {
   }
 }
 
-// console.log(highest)
-console.log(secondHighest);
+console.log("Highest Marks are:",highest)
+console.log("Second Highest Marks are:",secondHighest);
