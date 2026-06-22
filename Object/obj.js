@@ -124,32 +124,33 @@
 // }
 // console.log(average)
 
-let student = [
-  {
-    name: "Naman",
-    age: 23,
-    marks: 97,
-  },
-  {
-    name: "Veepanshu",
-    age: 21,
-    marks: 94,
-  },
-  {
-    name: "Deepak",
-    age: 32,
-    marks: 87,
-  },
-];
-let highest = 0;
-let secondHighest = 0;
-for (let i = 0; i < student.length; i++) {
-  if (student[i].marks > highest) {
-    highest = student[i].marks;
-  } else if (student[i].marks > secondHighest && student[i].marks < highest) {
-    secondHighest = student[i].marks;
-  }
-}
+// let student = [
+//   {
+//     name: "Naman",
+//     age: 23,
+//     marks: 97,
+//   },
+//   {
+//     name: "Veepanshu",
+//     age: 21,
+//     marks: 94,
+//   },
+//   {
+//     name: "Deepak",
+//     age: 32,
+//     marks: 87,
+//   },
+// ];
+// let highest = 0;
+// let secondHighest = 0;
+// for (let i = 0; i < student.length; i++) {
+//   if (student[i].marks > highest) {
+//     highest = student[i].marks;
+//   } else if (student[i].marks > secondHighest && student[i].marks < highest) {
+//     secondHighest = student[i].marks;
+//   }
+// }
 
-console.log("Highest Marks are:",highest)
-console.log("Second Highest Marks are:",secondHighest);
+// console.log("Highest Marks are:",highest)
+// console.log("Second Highest Marks are:",secondHighest);
+
