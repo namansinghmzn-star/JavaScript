@@ -1,0 +1,8 @@
+// console.log(Math.PI)
+// console.log(Math.round(5.6))
+// console.log(Math.floor(6.5))
+// console.log(Math.ceil(4.1))
+// console.log(Math.max(12,54,3,4,87,98,23,54))
+// console.log(Math.min(12,54,3,4,87,98,23,54))
+// console.log(Math.random())
+// console.log(Math.pow(2, 3))
