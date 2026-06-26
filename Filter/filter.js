@@ -22,11 +22,11 @@
 // const longNames = names.filter(n=> n.length>4)
 // console.log(longNames)
 
-// const student = [
-//     { name: "Naman Singh", marks:89},
-//     { name: "Deepak Yadav", marks:98},
-//     { name: "Veepanshu Kasana", marks:43}
-// ]
+const student = [
+    { name: "Naman Singh", marks:89},
+    { name: "Deepak Yadav", marks:98},
+    { name: "Veepanshu Kasana", marks:43}
+]
 
-// const passedStudent = student.filter(stu => stu.marks >=50)
-// console.log(passedStudent)
+const passedStudent = student.filter(stu => stu.marks >=50)
+console.log(passedStudent)
